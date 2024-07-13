@@ -1,6 +1,6 @@
 # SHAKTI
 ## Every woman is incredible and safe!!
-'Shakti' is an online platform empowering women through advocacy, safety resources, and community support. We provide essential tools and a nurturing network to foster resilience and self-confidence, ensuring women thrive in every aspect of life.
+'Shakti' is an online platform empowering women with advocacy, safety resources, and community support. We provide essential tools and a nurturing network to foster resilience and confidence. Our features include safe route navigation, safety zone identification, guardian emergency reach-out, and an SOS alarm, ensuring women feel secure and protected in all aspects of life.
 
 ##### Women: A Century of Change.
 
