@@ -1,8 +1,5 @@
 # SHAKTI
 ## Every woman is incredible and safe!!
-<p align="center">
-<img src="https://drive.google.com/file/d/1pmzUojLC-RD-zNKWnj1eO1cfPiJhOCM3/view?usp=sharing" width='350'>
-</p>
 'Shakti' is an online platform empowering women through advocacy, safety resources, and community support. We provide essential tools and a nurturing network to foster resilience and self-confidence, ensuring women thrive in every aspect of life.
 
 ##### Women: A Century of Change.
@@ -24,9 +21,9 @@ PROJECT LINK - https://shakti-safety.netlify.app/
 PROJECT DEMO- https://drive.google.com/file/d/1cOHqaJLmHcnDKDrgljclDxaFNcT-I_bh/view?usp=sharing
 
 ## TECHNICAL STACK
--HTML
--css
--Java Script 
+- HTML
+- CSS
+- Java Script 
 
 # Team Members  :
 1. Tripti Jaiswal
