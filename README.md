@@ -16,7 +16,7 @@ Women are the future fundamental of every country. We are committed to enhancing
 
 PROJECT LINK - https://shakti-safety.netlify.app/
 
-PROJECT DEMO- https://drive.google.com/file/d/1cOHqaJLmHcnDKDrgljclDxaFNcT-I_bh/view?usp=sharing
+PROJECT DEMO- https://drive.google.com/file/d/186k8OuohyhnkOcrtL1fm6T-bM48-4vwP/view?usp=sharing
 
 ## TECHNICAL STACK
 - HTML
